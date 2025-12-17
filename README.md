@@ -1,8 +1,10 @@
+# akshay-d365.github.io
+My professional portfolio
+
 # Akshay Kumar Vempati
 ### MS Dynamics 365 CRM | Power Apps | Power Automate Developer
 
-B.Tech graduate with hands-on experience in Dynamics 365 CE, Dataverse, Model-Driven Apps, and Power Automate.
-Passionate about building CRM solutions and automating business processes.
+CRM Enthusiast with Expertise in Dynamics 365, Power Platform (Power Apps & Power Automate), Power BI, JavaScript, HTML, CSS, .NET & C# | Hands-on in End-to-End CRM Projects | Skilled in AI Automation & SQL.
 
 ---
 
@@ -17,10 +19,10 @@ Passionate about building CRM solutions and automating business processes.
 - Security Roles
 
 ### Development
-- C#, .NET (Basics)
+- C#, .NET
 - JavaScript
-- CRM Plugins (Basics)
-- Web API (Basics)
+- CRM Plugins
+- Web API 
 
 ---
 
@@ -58,8 +60,7 @@ Custom CRM for managing drivers, routes, and shifts.
 ---
 
 ## Contact
-📧 Email: yourmail@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-💻 GitHub: https://github.com/yourusername
-# akshay-d365.github.io
-My professional portfolio
+📧 Email: akshaykumarvempati@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/akshay-kumar-vempati-195788273/  
+💻 GitHub: https://github.com/Akshaykumar-1
+
